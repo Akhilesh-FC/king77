@@ -1,0 +1,2 @@
+<li><a href="<?php echo e(route('dragon',10)); ?>"><i class="fa fa-paw"></i> <span>Dragon Tiger</span></a></li>
+<?php /**PATH /home/u609116592/domains/king77.games/public_html/root/resources/views/admin/body/dragon_sidebar.blade.php ENDPATH**/ ?>

@@ -1,0 +1,2 @@
+<li><a href="<?php echo e(route('headtail',14)); ?>"><i class="fa fa-bullseye"></i> <span>Head Tail</span></a></li>
+<?php /**PATH /home/u609116592/domains/king77.games/public_html/root/resources/views/admin/body/Headtail_sidebar.blade.php ENDPATH**/ ?>
